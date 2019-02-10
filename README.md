@@ -10,5 +10,8 @@ conda install pyaudio
 Command Prompt-
 pip install SpeechRecognition
 
+For gTTS:
+pip install gtts
+
 
 Type the above commands in Prompts.
